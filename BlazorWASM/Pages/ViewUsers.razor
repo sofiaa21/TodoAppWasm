@@ -1,0 +1,58 @@
+﻿@page "/ViewUsers"
+@using HttpClients.ClientInterfaces
+@inject IUserService userService
+
+<!--CANT LOAD USERS 
+System.ArgumentNullException: Value cannot be null.
+problem: UserFileDAO.cs:line 49  -->
+
+<h3 style="text-align: center"> Overview of all users</h3>
+
+@if (!string.IsNullOrEmpty(msg))
+{
+    <div>
+        <span> @msg</span>
+    </div>
+}
+@if (users == null)
+{
+    <span> Loading... </span>
+}
+else if (!users.Any())
+{
+    <span> No users to be found :( </span>
+}
+else
+{
+    <div class="users-container">
+        @foreach (User user in users)
+        {
+            <div class="users-card">
+                <label> @user.UserName</label>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    private IEnumerable<User>? users;
+    private string msg = "";
+
+    //When it loads, we need to retrieve
+    //the list of users
+    //so that it can be displayed
+
+    protected override async Task OnInitializedAsync()
+    {
+        msg = "";
+        try
+        {
+            users = await userService.GetUsers();
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            msg=e.Message;
+        }
+    }
+}
