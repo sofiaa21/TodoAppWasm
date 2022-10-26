@@ -1,8 +1,8 @@
 ﻿@page "/CreateTodo"
 @using HttpClients.ClientInterfaces
 @using global::Shared.DTOs
-@inject IUserService userService;
-@inject ITodoService todoService;
+@inject IUserService userService
+@inject ITodoService todoService
 @inject NavigationManager navMgr
 
 <div class="card">
@@ -12,10 +12,11 @@
     }
     else if (!users.Any())
     {
-        <label>No users, you cannot create a Todo without assignee.</label>
+        <label>No users, you cannot create a Todo</label>
     }
     else
-    { <h3>CreateTodo</h3>
+    {
+        <h3>Create Todo</h3>
         <div class="form-group field">
             <label>Title:</label>
             <input type="text" @bind="todoTitle"/>
@@ -44,10 +45,9 @@
     private IEnumerable<User>? users;
     private int? selectedUserId;
     private string todoTitle = "";
-    
+
     private string msg = "";
-    
-    
+
     protected override async Task OnInitializedAsync()
     {
         msg = "";
@@ -61,7 +61,7 @@
             msg = e.Message;
         }
     }
-    
+
     private async Task Create()
     {
         msg = "";
@@ -80,7 +80,7 @@
         {
             TodoCreationDto dto = new((int)selectedUserId, todoTitle);
             await todoService.CreateAsync(dto);
-            navMgr.NavigateTo("/");
+            navMgr.NavigateTo("/ViewTodos");
         }
         catch (Exception e)
         {
@@ -89,4 +89,7 @@
         }
     }
     
+    
+
 }
+

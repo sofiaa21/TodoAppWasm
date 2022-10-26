@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hyGpym4W4CkVCnVAwNOnqyZVuWJe3Q8TtLLWey4LyIk=",
+  "Hash": "dBZIoMSQg6GZrnqNYSvehFZWVDxwh1+Hnll9pwXlNqE=",
   "Source": "BlazorWASM",
   "BasePath": "/",
   "Mode": "Root",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.8\\build\\net6.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.7\\build\\net6.0\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorWASM.dll",
@@ -252,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.7\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -269,7 +269,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.7\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -286,7 +286,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.7\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -303,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.7\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -320,7 +320,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.7\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
@@ -337,7 +337,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.8\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.7\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -609,7 +609,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.jsinterop\\6.0.8\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.jsinterop\\6.0.7\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -626,7 +626,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.8\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\sofia\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.7\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -3519,23 +3519,6 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.AccessControl.dll"
     },
     {
-      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\+JBVKxke.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\+kt4neOH.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -3587,23 +3570,6 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\WindowsBase.dll"
     },
     {
-      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\0ETAy3s4.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
-    },
-    {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\0GXOUqeu.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -3619,23 +3585,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_CJK.dat"
-    },
-    {
-      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\0h5SzQSc.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\0O5q8pa2.gz",
@@ -3927,23 +3876,6 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.AccessControl.dll"
     },
     {
-      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\4wMexq2v.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\5EgV5oFt.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -4046,6 +3978,23 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.dll"
     },
     {
+      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\7k0iCAGH.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+    },
+    {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\7p8+aacb.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -4078,6 +4027,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.dll"
+    },
+    {
+      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\7vuguylR.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\8251JZLq.gz",
@@ -4641,23 +4607,6 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.dll"
     },
     {
-      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\eseY3T7Q.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\Exb5R3UL.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -4724,40 +4673,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.dll"
-    },
-    {
-      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\FhTYnoWf.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
-    },
-    {
-      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\fid0tHjl.gz",
-      "SourceId": "BlazorWASM",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\fk1eVd9m.gz",
@@ -5049,21 +4964,21 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Queryable.dll"
     },
     {
-      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\ibIlxffz.gz",
+      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\I+dIE4OV.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\IH+usCKO.gz",
@@ -5338,6 +5253,23 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Specialized.dll"
     },
     {
+      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\lqh6Mf0C.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js"
+    },
+    {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\lT7+r+Qh.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5559,6 +5491,23 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.dll"
     },
     {
+      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\nZMsXXCB.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\O+i6c2Rs.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5729,6 +5678,23 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encodings.Web.dll"
     },
     {
+      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\Pk01Ip3A.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
+    },
+    {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\plT4H+Cm.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -5812,6 +5778,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.dll"
+    },
+    {
+      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\q2+cTi8r.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\q8q0nZKl.gz",
@@ -6528,6 +6511,23 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.VisualC.dll"
     },
     {
+      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\vXDvs4+d.gz",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\W44Prl+q.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
@@ -6596,21 +6596,21 @@
       "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Quic.dll"
     },
     {
-      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\wtfhgSPt.gz",
+      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\WGPv9UsL.gz",
       "SourceId": "BlazorWASM",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
+      "RelatedAsset": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\obj\\Debug\\net6.0\\build-gz\\WVYuurgM.gz",
@@ -7172,6 +7172,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+    },
+    {
+      "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\wwwroot\\css\\styles.css",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\sofia\\RiderProjects\\TodoAppWasm\\BlazorWASM\\wwwroot\\favicon.ico",
